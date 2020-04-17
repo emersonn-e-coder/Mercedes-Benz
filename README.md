@@ -5,4 +5,4 @@
  
 ![clique aqui](https://github.com/emersonn-e-coder/Mercedes-Benz/blob/master/imagens/paper-merceds.png)
 
-* [Conheça meu GitHub Pages](https://github.com/emersonn-e-coder.io)
+* [Conheça meu GitHub Pages](https://emersonn-e-coder.github.io/)
