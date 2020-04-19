@@ -235,7 +235,9 @@ footer#rodape {
 @media (max-width:360px) {
   body {
       background-image: url('imagens/rua3.jpg');
-      
+      background-size: cover;
+   background-attachment: fixed;
+   font-family: Arial ;
   }
 
   * {
