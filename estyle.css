@@ -108,7 +108,7 @@
     footer#rodape {
         clear: both;
         border-top: px  solid whitesmoke;
-        padding-top: 11px;
+        padding-top: 27px;
     }
     
     /*=================================================*/
@@ -341,7 +341,7 @@
               margin-top: 32px;
             }*/
             p {
-              margin-left:-2% ;
+              margin-left:-18% ;
               margin-top:2% ;
               color: #cecece;
               font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 6pt;
