@@ -232,7 +232,7 @@ footer#rodape {
   /* demo styles */
 
 /*===============================================================================================*/
-@media (max-width:375px) {
+@media (max-width:360px) {
   body {
       background-image: url('imagens/rua3Mobile.jpg');
       
@@ -295,7 +295,7 @@ footer#rodape {
         img.img-4 {
             
          /* float: right;*/
-            margin-right: 13%;
+            margin-right: 15%;
             width:300px ;
             height:169px ;
             border-top-left-radius: 70%;
