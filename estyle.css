@@ -234,10 +234,7 @@ footer#rodape {
 /*===============================================================================================*/
 @media (max-width:360px) {
   body {
-      background-image: url('imagens/rua3.jpg');
-      background-size: cover;
-   background-attachment: fixed;
-   font-family: Arial ;
+      background-color: #6770ecf1;
   }
 
   * {
@@ -349,11 +346,11 @@ footer#rodape {
           margin-left: -35%;
         }
         
-        /*footer#rodape { copy 
+        footer#rodape { copy 
             clear: both;
             border-top: px  solid whitesmoke;
-            padding-top: 10px;
-        }*/
+            padding-top: -20px;
+        }
         
         /*=================================================*/
         
