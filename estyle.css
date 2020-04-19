@@ -360,7 +360,7 @@
             
             .middle { /*deslocamento dos bottons para a direita ou esquerda*/
                 position: absolute;
-                top: 97%;
+                top: 105%;
                 transform: translateY(-50%);
                 width: 100%;
                 text-align: center;
