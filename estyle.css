@@ -321,7 +321,7 @@ footer#rodape {
         }
         img.img-5 { bottons de rodapé
           padding-top: -80%;
-            margin-top: 80%;
+            margin-top: 90%;
             padding-right: 10px;
             padding-left: 10px;
             line-height: 40px;
@@ -338,20 +338,19 @@ footer#rodape {
           margin-top: 32px;
         }*/
         h3 {
-          margin-left:17% ;
+          margin-left:13% ;
           margin-top:10% ;
           color: #cecece;
           font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
         p {
           color: #cecece;
-          margin-left: 27%;
           text-align: justify;
           padding-top: 10%;
           font: 10pt Arial;
           margin-top: 100px;
           text-align: center;
-          margin-left: -2%;
+          margin-left: -6%;
         }
         
         footer#rodape { copy 
