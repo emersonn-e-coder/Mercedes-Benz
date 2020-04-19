@@ -232,7 +232,7 @@ footer#rodape {
   /* demo styles */
 
 /*===============================================================================================*/
-/*@media (max-width:360px) {
+@media (max-width:360px) {
   body {
       background-image: url('imagens/rua3.jpg');
       background-size: cover;
@@ -250,12 +250,12 @@ footer#rodape {
           padding-top: 10%;
           
         }
-        section#corpo { /*img pequenas
+        section#corpo { /*img pequenas*/
            
           width: 300px;
           display: block;
           margin-top: -2%;
-          /*float: left;
+          /*float: left;*/
           margin-left: 4%;
           
         }
@@ -273,7 +273,7 @@ footer#rodape {
             
         }
         
-        img.img-2 { /*logo merc
+        img.img-2 { /*logo merc*/
           width: 230px;
           height:60px ;
          margin-left: 9%;
@@ -285,7 +285,7 @@ footer#rodape {
         img.img-3 {
             width:140px ;
             height:79px ;
-            margin-top: 3%; /*espaçamento entre uma imagem e outra
+            margin-top: 3%; /*espaçamento entre uma imagem e outra*/
             margin-left: 9%;
             border-top-left-radius: 70%;
             border-bottom-right-radius: 50% ;
@@ -296,10 +296,10 @@ footer#rodape {
         
         img.img-4 {
             
-         /* float: right;
+          float: right;
             margin-right: 15%;
-            width:300px ;
-            height:169px ;
+            width:250px ;
+            height:141px ;
             border-top-left-radius: 70%;
             border-bottom-right-radius: 50% ;
             margin-top: -10%;
@@ -319,7 +319,7 @@ footer#rodape {
             transform: scale(1.1);
             color:#f1f1f1 ;
         }
-        img.img-5 { /*bottons de rodapé
+        img.img-5 { bottons de rodapé
           padding-top: -80%;
             margin-top: 60%;
             padding-right: 10px;
@@ -336,27 +336,27 @@ footer#rodape {
           width:300px ;
           float: right;
           margin-top: 32px;
-        }
+        }*/
         p {
           color: #cecece;
           margin-left: 27%;
           text-align: justify;
           margin-left: -35%;
-          padding-top: 5%;
+          padding-top: 10%;
           font: 10pt Arial;
-          margin-top: 80px;
+          margin-top: 100px;
           text-align: center;
         }
         
-        footer#rodape { /*copy 
+        /*footer#rodape { copy 
             clear: both;
             border-top: px  solid whitesmoke;
             padding-top: 10px;
-        }
+        }*/
         
-        /*=================================================
+        /*=================================================*/
         
-        .middle { /*deslocamento dos bottons para a direita ou esquerda
+        .middle { /*deslocamento dos bottons para a direita ou esquerda*/
             position: absolute;
             top: 100%;
             transform: translateY(-50%);
@@ -366,20 +366,20 @@ footer#rodape {
         }
         
         
-        .btn-1:hover img { /*hover dos bottond de rodapé
+        .btn-1:hover img { /*hover dos bottond de rodapé*/
             transform: scale(1.5);
             color:#f1f1f1f1;
         
         }
         
-        /* Styles do MENU 
+         /*Styles do MENU */
         #toggle {
             display: block;
             width: 28px;
             height: 30px;
             margin: 30px auto 30px;
             margin-top: 10%;
-            margin-right: 50px;/*controla o humburger p direita e esquerda
+            margin-right: 50px;/*controla o humburger p direita e esquerda*/
           }
           
           #toggle span:after,
@@ -403,7 +403,7 @@ footer#rodape {
           #toggle span:before {
             width: 100%;
             height: 5px;
-            background-color: rgb(248, 248, 248); /*cor do humburger
+            background-color: rgb(248, 248, 248); /*cor do humburger*/
             transition: all 0.3s;
             backface-visibility: hidden;
             border-radius: 2px;
@@ -411,7 +411,7 @@ footer#rodape {
            
           }
           
-          /* on activation 
+          /* on activation */
           #toggle.on span {
             background-color: transparent;
           }
@@ -426,22 +426,22 @@ footer#rodape {
             visibility: visible;
           }
           
-          /* menu appearance
+          /* menu appearance*/
           #menu {
             position: relative;
             color: rgb(48, 48, 48);
             width: 90px;
             padding: 0px;
             margin: auto;
-            top: 5px; /*a caixinha branca desce
-            margin-right: 44px;/*coloca a cx branca para a direita
+            top: 5px; /*a caixinha branca desce*/
+            margin-right: 44px;/*coloca a cx branca para a direita*/
             font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
             text-align: center;
             border-radius:2px;
           
             background: rgb(20, 20, 20);
             box-shadow: 0 1px 8px rgba(0,0,0,0.05);
-            /* just for this demo 
+            /* just for this demo */
             opacity: 0;
             visibility: hidden;
             transition: opacity .1s;
@@ -456,7 +456,7 @@ footer#rodape {
             border-right: 15px solid transparent;
             border-bottom: 20px solid rgb(194, 27, 27); /*cor do triangulo*/
           }
-          /*ul, li, li a {
+          ul, li, li a {
               list-style: none;
               display: block;
               margin: 0;
@@ -465,12 +465,12 @@ footer#rodape {
             li a {
               padding: 5px;
               color: rgb(134, 98, 98);/*cor das palavras dentro da cxinha*/
-              /*text-decoration: none;
+              text-decoration: none;
               transition: all .2s;
             }
             li a:hover,
             li a:focus { /*cor das palavras mudam ao passar o mouse*/
-             /* background: rgb(129, 136, 243);
+             background: rgb(129, 136, 243);
               color: rgb(126, 50, 50);
               border-radius: 3px;
             }
