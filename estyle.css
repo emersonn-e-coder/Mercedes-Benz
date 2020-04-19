@@ -108,7 +108,7 @@
     footer#rodape {
         clear: both;
         border-top: px  solid whitesmoke;
-        padding-top: 18px;
+        padding-top: 12px;
     }
     
     /*=================================================*/
@@ -352,7 +352,7 @@
             footer#rodape { /*copy */
                 clear: both;
                 border-top: px  solid whitesmoke;
-                padding-top:7%;
+                padding-top:8%;
               
             }
             
