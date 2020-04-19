@@ -108,7 +108,7 @@
     footer#rodape {
         clear: both;
         border-top: px  solid whitesmoke;
-        padding-top: 12px;
+        padding-top: 5px;
     }
     
     /*=================================================*/
@@ -341,7 +341,7 @@
               margin-top: 32px;
             }*/
             p {
-              margin-left:2% ;
+              margin-left:-2% ;
               margin-top:2% ;
               color: #cecece;
               font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -352,7 +352,7 @@
             footer#rodape { /*copy */
                 clear: both;
                 border-top: px  solid whitesmoke;
-                padding-top:15%;
+                padding-top:5%;
               
             }
             
@@ -364,7 +364,7 @@
                 transform: translateY(-50%);
                 width: 100%;
                 text-align: center;
-                margin-left: -5%;
+                margin-left: -2%;
             }
             
             
