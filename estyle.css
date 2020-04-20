@@ -350,7 +350,10 @@
               font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 6pt;
             }
            
-            
+            h6 {
+              font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+              color: #727070;
+            }
             
             footer#rodape { /*copy */
                 clear: both;
