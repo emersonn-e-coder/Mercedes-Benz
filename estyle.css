@@ -362,7 +362,7 @@
                 padding-top:3%;
               
             }
-            span {
+            h5 {
               float: left;
               color: #cecece;
               font-size: 9pt;
@@ -396,7 +396,7 @@
                 height: 30px;
                 margin: 30px auto 30px;
                 margin-top: 10%;
-                margin-right: 100px;/*controla o humburger p direita e esquerda*/
+                margin-right: 40px;/*controla o humburger p direita e esquerda*/
               }
               
               #toggle span:after,
