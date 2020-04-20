@@ -96,9 +96,9 @@
     }
     h5 {
       color: #cecece;
-      margin-left: 27%;
+      /*margin-left: 27%;*/
       text-align: justify;
-      margin-left: -35%;
+      /*margin-left: -35%;*/
       padding-top: 5%;
       font: 10pt Arial;
       margin-top: 6px;
@@ -111,7 +111,7 @@
     footer#rodape {
         clear: both;
         border-top: px  solid whitesmoke;
-        padding-top: 27px;
+        padding-top: 20px;
     }
     
     /*=================================================*/
