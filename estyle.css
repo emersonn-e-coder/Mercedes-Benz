@@ -104,7 +104,10 @@
       margin-top: 6px;
       text-align: center;
     }
-    
+    h6 {
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+      color: #727070;
+    }
     footer#rodape {
         clear: both;
         border-top: px  solid whitesmoke;
