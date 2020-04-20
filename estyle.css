@@ -362,6 +362,13 @@
                 padding-top:7%;
               
             }
+            span {
+              float: left;
+              color: #cecece;
+              font-size: 9pt;
+              margin-top: 13px;
+              
+            }
             
             /*=================================================*/
             
