@@ -396,7 +396,7 @@
                 height: 30px;
                 margin: 30px auto 30px;
                 margin-top: 10%;
-                margin-right: 50px;/*controla o humburger p direita e esquerda*/
+                margin-right: 100px;/*controla o humburger p direita e esquerda*/
               }
               
               #toggle span:after,
@@ -451,7 +451,7 @@
                 padding: 0px;
                 margin: auto;
                 top: 5px; /*a caixinha branca desce*/
-                margin-right: 44px;/*coloca a cx branca para a direita*/
+                margin-right: 34px;/*coloca a cx branca para a direita*/
                 font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
                 text-align: center;
                 border-radius:2px;
