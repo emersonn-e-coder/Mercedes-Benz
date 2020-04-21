@@ -573,7 +573,7 @@
       footer#rodape { /*copy */
           clear: both;
           border-top: px  solid whitesmoke;
-          padding-top:-10%;
+          padding-top:0%;
       }
       h5 {
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
